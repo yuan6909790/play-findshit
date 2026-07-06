@@ -1,0 +1,15 @@
+.gy{
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+    border: 5px solid goldenrod;
+    border-radius: 5px;
+    list-style-type: none;
+    background-color: white;
+}
+.nb{
+    list-style-type: none;
+}
+.out{
+    background-color: greenyellow;
+}

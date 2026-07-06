@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.top{
+    background-image: linear-gradient(to bottom right, greenyellow,aqua);
+    padding: 14px 16px;
+}

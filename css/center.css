@@ -1,0 +1,39 @@
+.neibu{
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+    border: 5px solid greenyellow;
+    border-radius: 10px;
+    background-color: white;
+}
+.top1{
+    color: goldenrod;
+}
+.botton{
+    background-color: gold;
+    color: #000;
+    padding: 5px 7px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+}
+.botton:hover{
+    background-image: linear-gradient(to bottom right, gold,goldenrod);
+    padding: 7px 9px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.guanggao{
+    max-width: 600px;
+    margin: auto;
+    border: #777 dashed 2px;
+}
+.link{
+    color: goldenrod;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+}
+.link:hover{
+    color: coral;
+}

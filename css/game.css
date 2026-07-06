@@ -1,0 +1,15 @@
+.anniu{
+    background-color: green;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    transition-duration: 0.5s;
+}
+.anniu:hover{
+    background-image: linear-gradient(to bottom right, green,greenyellow);
+    padding: 15px 25px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
